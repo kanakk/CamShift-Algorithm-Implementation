@@ -42,3 +42,7 @@ while (1):
 cv2.destroyAllWindows()
 cap.release()
 print("True")
+
+
+
+#This is demo Camshift Code 
